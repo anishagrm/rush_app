@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "busboy": "^0.3.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.1.0",
+    "@eslint/js": "^9.8.0",
+    "eslint-plugin-promise": "^5.1.0"
+  }
+}
